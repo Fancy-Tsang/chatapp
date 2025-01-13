@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:Chatify/screens/Login/login_screen.dart';
-import 'package:Chatify/screens/Signup/signup_screen.dart';
-import 'package:Chatify/screens/Welcome/components/background.dart';
-import 'package:Chatify/components/rounded_button.dart';
-import 'package:Chatify/constants.dart';
+import 'package:chatapp/screens/Login/login_screen.dart';
+import 'package:chatapp/screens/Signup/signup_screen.dart';
+import 'package:chatapp/screens/Welcome/components/background.dart';
+import 'package:chatapp/components/rounded_button.dart';
+import 'package:chatapp/constants.dart';
 import 'package:flutter_svg/svg.dart';
 
 import 'package:shared_preferences/shared_preferences.dart';

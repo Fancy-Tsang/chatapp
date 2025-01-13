@@ -1,5 +1,5 @@
-import 'package:Chatify/screens/ChatDetail/ChattingPage.dart';
-import 'package:Chatify/widgets/StatusIndicator.dart';
+import 'package:chatapp/screens/ChatDetail/ChattingPage.dart';
+import 'package:chatapp/widgets/StatusIndicator.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

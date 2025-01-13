@@ -1,10 +1,10 @@
 import 'dart:async';
 
-import 'package:Chatify/constants.dart';
-import 'package:Chatify/models/call.dart';
-import 'package:Chatify/configs/configs.dart';
-import 'package:Chatify/models/log.dart';
-import 'package:Chatify/resources/call_methods.dart';
+import 'package:chatapp/constants.dart';
+import 'package:chatapp/models/call.dart';
+import 'package:chatapp/configs/configs.dart';
+import 'package:chatapp/models/log.dart';
+import 'package:chatapp/resources/call_methods.dart';
 import 'package:agora_rtc_engine/agora_rtc_engine.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';

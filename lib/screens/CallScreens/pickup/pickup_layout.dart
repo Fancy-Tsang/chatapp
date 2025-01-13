@@ -1,6 +1,6 @@
-import 'package:Chatify/models/call.dart';
-import 'package:Chatify/screens/CallScreens/pickup/pickup_screen.dart';
-import 'package:Chatify/resources/call_methods.dart';
+import 'package:chatapp/models/call.dart';
+import 'package:chatapp/screens/CallScreens/pickup/pickup_screen.dart';
+import 'package:chatapp/resources/call_methods.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ringtone_player/flutter_ringtone_player.dart';

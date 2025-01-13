@@ -1,6 +1,6 @@
-import 'package:Chatify/utils/call_utilites.dart';
-import 'package:Chatify/widgets/StatusIndicator.dart';
-import 'package:Chatify/utils/permissions.dart';
+import 'package:chatapp/utils/call_utilites.dart';
+import 'package:chatapp/widgets/StatusIndicator.dart';
+import 'package:chatapp/utils/permissions.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

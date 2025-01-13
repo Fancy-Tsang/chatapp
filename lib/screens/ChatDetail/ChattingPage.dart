@@ -1,15 +1,15 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:Chatify/components/chat_detail_page_appbar.dart';
-import 'package:Chatify/components/msg_item.dart';
-import 'package:Chatify/components/sticker_gif.dart';
-import 'package:Chatify/configs/configs.dart';
-import 'package:Chatify/constants.dart';
-import 'package:Chatify/enum/message_type.dart';
-import 'package:Chatify/resources/notification_methods.dart';
-import 'package:Chatify/screens/CallScreens/pickup/pickup_layout.dart';
-import 'package:Chatify/utils/utils.dart';
+import 'package:chatapp/components/chat_detail_page_appbar.dart';
+import 'package:chatapp/components/msg_item.dart';
+import 'package:chatapp/components/sticker_gif.dart';
+import 'package:chatapp/configs/configs.dart';
+import 'package:chatapp/constants.dart';
+import 'package:chatapp/enum/message_type.dart';
+import 'package:chatapp/resources/notification_methods.dart';
+import 'package:chatapp/screens/CallScreens/pickup/pickup_layout.dart';
+import 'package:chatapp/utils/utils.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';

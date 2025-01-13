@@ -1,4 +1,4 @@
-import 'package:Chatify/enum/message_type.dart';
+import 'package:chatapp/enum/message_type.dart';
 import 'package:flutter/material.dart';
 
 class StickerGif extends StatelessWidget {

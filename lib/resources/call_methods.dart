@@ -1,4 +1,4 @@
-import 'package:Chatify/models/call.dart';
+import 'package:chatapp/models/call.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class CallMethods {
